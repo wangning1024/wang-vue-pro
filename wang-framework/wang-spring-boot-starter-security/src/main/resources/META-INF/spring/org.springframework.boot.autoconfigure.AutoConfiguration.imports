@@ -1,0 +1,2 @@
+cn.zs.wang.framework.security.config.WangSecurityAutoConfiguration
+cn.zs.wang.framework.security.config.WangWebSecurityConfigurerAdapter

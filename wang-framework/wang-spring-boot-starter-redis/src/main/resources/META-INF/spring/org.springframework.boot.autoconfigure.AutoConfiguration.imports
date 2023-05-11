@@ -1,0 +1,2 @@
+cn.zs.wang.framework.redis.config.WangRedisAutoConfiguration
+cn.zs.wang.framework.redis.config.WangCacheAutoConfiguration

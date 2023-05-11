@@ -1,0 +1,2 @@
+cn.zs.wang.framework.idempotent.config.WangIdempotentConfiguration
+cn.zs.wang.framework.lock4j.config.WangLock4jConfiguration

@@ -1,0 +1,2 @@
+cn.zs.wang.framework.tracer.config.WangTracerAutoConfiguration
+cn.zs.wang.framework.tracer.config.WangMetricsAutoConfiguration

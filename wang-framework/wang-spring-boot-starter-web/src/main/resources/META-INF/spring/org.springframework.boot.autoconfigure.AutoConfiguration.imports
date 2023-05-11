@@ -1,0 +1,6 @@
+cn.zs.wang.framework.apilog.config.WangApiLogAutoConfiguration
+cn.zs.wang.framework.jackson.config.WangJacksonAutoConfiguration
+com.github.xiaoymin.knife4j.spring.configuration.Knife4jAutoConfiguration
+cn.zs.wang.framework.swagger.config.WangSwaggerAutoConfiguration
+cn.zs.wang.framework.web.config.WangWebAutoConfiguration
+cn.zs.wang.framework.xss.config.WangXssAutoConfiguration

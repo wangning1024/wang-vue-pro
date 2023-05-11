@@ -1,0 +1,2 @@
+cn.zs.wang.framework.datasource.config.WangDataSourceAutoConfiguration
+cn.zs.wang.framework.mybatis.config.WangMybatisAutoConfiguration

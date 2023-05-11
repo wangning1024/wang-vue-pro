@@ -1,0 +1,2 @@
+cn.zs.wang.framework.quartz.config.WangQuartzAutoConfiguration
+cn.zs.wang.framework.quartz.config.WangAsyncAutoConfiguration
